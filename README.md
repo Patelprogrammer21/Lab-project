@@ -1,2 +1,2 @@
-# lab
+# Lab projects
 web page
